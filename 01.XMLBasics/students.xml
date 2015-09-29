@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Students>
+  <Student xmlns:students="urn:telerikacademy-students">
+    <Name>Petar Petrov</Name>
+    <Sex>Male</Sex>
+    <BirthDate>01/01/1991</BirthDate>
+    <PhoneNumber>0888112233</PhoneNumber>
+    <Email>petar@petrov.com</Email>
+    <Course>1</Course>
+    <Specialty>Web Developer</Specialty>
+    <FacultyNumber>1</FacultyNumber>
+    <TakenExams>
+      <Exam>
+        <ExamName>C#</ExamName>
+        <ExamTutor>Ivo</ExamTutor>
+        <Score>Passed</Score>
+      </Exam>
+      <Exam>
+        <ExamName>JavaScript</ExamName>
+        <ExamTutor>Doncho</ExamTutor>
+        <Score>Passed</Score>
+      </Exam>
+      <Exam>
+        <ExamName>HQC</ExamName>
+        <ExamTutor>Niki</ExamTutor>
+        <Score>Passed</Score>
+      </Exam>
+    </TakenExams>
+  </Student>
+  <Student>
+    <Name>Ivan Ivanov</Name>
+    <Sex>Male</Sex>
+    <BirthDate>02/02/1992</BirthDate>
+    <PhoneNumber>0888223344</PhoneNumber>
+    <Email>ivan@ivanov.com</Email>
+    <Course>1</Course>
+    <Specialty>QA</Specialty>
+    <FacultyNumber>2</FacultyNumber>
+    <TakenExams>
+      <Exam>
+        <ExamName>C#</ExamName>
+        <ExamTutor>Ivo</ExamTutor>
+        <Score>Passed</Score>
+      </Exam>
+      <Exam>
+        <ExamName>JavaScript</ExamName>
+        <ExamTutor>Doncho</ExamTutor>
+        <Score>Passed</Score>
+      </Exam>
+      <Exam>
+        <ExamName>HQC</ExamName>
+        <ExamTutor>Niki</ExamTutor>
+        <Score>Passed</Score>
+      </Exam>
+    </TakenExams>
+  </Student>
+  <Student>
+    <Name>Gergana Georgieva</Name>
+    <Sex>Female</Sex>
+    <BirthDate>03/03/1993</BirthDate>
+    <PhoneNumber>0888334455</PhoneNumber>
+    <Email>gergana@georgieva.com</Email>
+    <Course>1</Course>
+    <Specialty>Mobile</Specialty>
+    <FacultyNumber>3</FacultyNumber>
+    <TakenExams>
+      <Exam>
+        <ExamName>C#</ExamName>
+        <ExamTutor>Ivo</ExamTutor>
+        <Score>Passed</Score>
+      </Exam>
+      <Exam>
+        <ExamName>JavaScript</ExamName>
+        <ExamTutor>Doncho</ExamTutor>
+        <Score>Passed</Score>
+      </Exam>
+      <Exam>
+        <ExamName>HQC</ExamName>
+        <ExamTutor>Niki</ExamTutor>
+        <Score>Passed</Score>
+      </Exam>
+    </TakenExams>
+  </Student>
+</Students>
