@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+	<album>
+		<name>OK Computer</name>
+		<artist>Radiohead</artist>
+	</album>
+	<album>
+		<name>Nevermind</name>
+		<artist>Nirvana</artist>
+	</album>
+	<album>
+		<name>The Queen Is Dead</name>
+		<artist>The Smiths</artist>
+	</album>
+</albums>

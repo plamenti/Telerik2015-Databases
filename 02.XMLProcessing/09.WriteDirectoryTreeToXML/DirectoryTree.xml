@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<file name="09.WriteDirectoryTreeToXML.exe" />
+	<file name="09.WriteDirectoryTreeToXML.exe.config" />
+	<file name="09.WriteDirectoryTreeToXML.pdb" />
+	<file name="09.WriteDirectoryTreeToXML.vshost.exe" />
+	<file name="09.WriteDirectoryTreeToXML.vshost.exe.config" />
+	<file name="DirectoryTree.xml" />
+</root>

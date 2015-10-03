@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Invalid xml -->
+<albums>
+  <album>
+    <artist>Radiohead</artist>
+    <year>1997</year>
+    <producer>Nigel Godrich</producer>
+    <price>9,49</price>
+    <songs>
+      <title>Airbag</title>
+      <duration>4:44</duration>
+      <title>Paranoid Android</title>
+      <duration>6:23</duration>
+      <title>Subterranean Homesick Alien</title>
+      <duration>4:27</duration>
+      <title>Exit Music</title>
+      <duration>4:24</duration>
+      <title>Let Down</title>
+      <duration>4:59</duration>
+      <title>Karma Police</title>
+      <duration>4:21</duration>
+      <title>Fitter Happier</title>
+      <duration>1:57</duration>
+      <title>Electioneering</title>
+      <duration>3:50</duration>
+      <title>Climbing Up the Walls</title>
+      <duration>4:45</duration>
+      <title>No Surprises</title>
+      <duration>3:48</duration>
+      <title>Lucky</title>
+      <duration>4:19</duration>
+      <title>The Touris</title>
+      <duration>5:24</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Nevermind</name>
+    <artist>Nirvana</artist>
+    <year>1991</year>
+    <producer>Butch Vig</producer>
+    <price>21,99</price>
+    <songs>
+      <title>Smells Like Teen Spirit</title>
+      <duration>5:41</duration>
+      <title>In Bloom</title>
+      <duration>4:14</duration>
+      <title>Come as You Are</title>
+      <duration>3:39</duration>
+      <title>Breed</title>
+      <duration>3:03</duration>
+      <title>Lithium</title>
+      <duration>4:17</duration>
+      <title>Polly</title>
+      <duration>2:57</duration>
+      <title>Territorial Pissings</title>
+      <duration>2:22</duration>
+      <title>Drain You</title>
+      <duration>3:43</duration>
+      <title>Lounge Act</title>
+      <duration>2:36</duration>
+      <title>Stay Away</title>
+      <duration>3:32</duration>
+      <title>On a Plain</title>
+      <duration>3:16</duration>
+      <title>Something in the Way</title>
+      <duration>3:46</duration>
+      <title>Endless, Nameless</title>
+      <duration>6:43</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Queen Is Dead</name>
+    <artist>The Smiths</artist>
+    <year>1986</year>
+    <producer> Rough Trade Records</producer>
+    <price>34,99</price>
+    <songs>
+      <title>The Queen Is Dead</title>
+      <duration>6:24</duration>
+      <title>Frankly, Mr. Shankly</title>
+      <duration>2:17</duration>
+      <title>I Know It's Over</title>
+      <duration>5:48</duration>
+      <title>Never Had No One Ever</title>
+      <duration>3:36</duration>
+      <title>Cemetry Gates</title>
+      <duration>2:39</duration>
+      <title>Bigmouth Strikes Again</title>
+      <duration>3:12</duration>
+      <title>The Boy with the Thorn in His Side</title>
+      <duration>3:15</duration>
+      <title>Vicar in a Tutu</title>
+      <duration>2:21</duration>
+      <title>There Is a Light That Never Goes Out</title>
+      <duration>4:02</duration>
+      <title>Some Girls Are Bigger Than Others</title>
+      <duration>3:14</duration>
+    </songs>
+  </album>
+</albums>

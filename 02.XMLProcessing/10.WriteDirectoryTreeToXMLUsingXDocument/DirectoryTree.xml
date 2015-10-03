@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <dir path="Debug">
+    <file name="10.WriteDirectoryTreeToXMLUsingXDocument.exe" />
+    <file name="10.WriteDirectoryTreeToXMLUsingXDocument.exe.config" />
+    <file name="10.WriteDirectoryTreeToXMLUsingXDocument.pdb" />
+    <file name="10.WriteDirectoryTreeToXMLUsingXDocument.vshost.exe" />
+    <file name="10.WriteDirectoryTreeToXMLUsingXDocument.vshost.exe.config" />
+  </dir>
+</root>
